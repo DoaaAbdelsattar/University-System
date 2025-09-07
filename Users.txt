@@ -1,0 +1,15 @@
+S1001,student1,password123,Ali Mohamed,ali@univ.edu,01012345678,Student
+S1002,student2,password123,Mona Ahmed,mona@univ.edu,01011112222,Student
+S1003,student3,password123,Omar Khaled,omar@univ.edu,01022223333,Student
+S1004,student4,password123,Hala Samir,hala@univ.edu,01033334444,Student
+S1005,student5,password123,Youssef Mahmoud,youssef@univ.edu,01044445555,Student
+F1001,prof1,password123,Dr. Ahmed,ahmed@univ.edu,01098765432,Faculty
+F1002,prof2,password123,Dr. Samy,samy@univ.edu,01088889999,Faculty
+F1003,prof3,password123,Dr. Hana,hana@univ.edu,01077776666,Faculty
+F1004,prof4,password123,Dr. Karim,karim@univ.edu,01066665555,Faculty
+F1005,prof5,password123,Dr. Laila,laila@univ.edu,01055554444,Faculty
+A1001,admin1,password123,Admin User,admin@univ.edu,01055555555,AdminStaff
+A1002,admin2,password123,Admin Assistant,admin2@univ.edu,01044443333,AdminStaff
+A1003,admin3,password123,Registration Staff,reg@univ.edu,01033332222,AdminStaff
+SA1001,sysadmin1,admin123,System Admin,sysadmin@univ.edu,01022221111,SystemAdmin
+SA1002,sysadmin2,admin123,Tech Support,tech@univ.edu,01011110000,SystemAdmin

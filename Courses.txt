@@ -1,0 +1,10 @@
+CSC101,Java Programming,Introduction to Java,3,30,Mon/Wed 10:00-11:30
+CSC102,Database Systems,SQL and DB Design,4,25,Sun/Tue 9:00-10:30
+MATH201,Calculus,Advanced Mathematics,3,40,Mon/Wed 8:00-9:30
+ENG301,Engineering Basics,Introduction to Engineering,2,35,Sat/Mon 12:00-1:30
+ART401,Art History,History of Modern Art,2,20,Tue/Thu 3:00-4:30
+CSC101,Java Programming,Introduction to Java,3,29,Mon/Wed 10:00-11:30
+CSC102,Database Systems,SQL and DB Design,4,24,Sun/Tue 9:00-10:30
+MATH201,Calculus,Advanced Mathematics,3,39,Mon/Wed 8:00-9:30
+ENG301,Engineering Basics,Introduction to Engineering,2,34,Sat/Mon 12:00-1:30
+ART401,Art History,History of Modern Art,2,19,Tue/Thu 3:00-4:30

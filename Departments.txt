@@ -1,0 +1,5 @@
+CS101,Computer Science
+MATH102,Mathematics
+ENG103,Engineering
+BUS104,Business
+ART105,Arts

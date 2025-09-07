@@ -1,0 +1,5 @@
+S1001,student1,Ali Mohamed,2023-09-01,Active,1
+S1002,student2,Mona Ahmed,2023-09-01,Active,1
+S1003,student3,Omar Khaled,2023-09-01,Active,1
+S1004,student4,Hala Samir,2023-09-01,Active,1
+S1005,student5,Youssef Mahmoud,2023-09-01,Active,1
